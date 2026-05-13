@@ -1,0 +1,7 @@
+ls -la
+git status
+git add testing.py
+git status
+git commit -m "Added files"
+rm testing.py
+git status
