@@ -5,3 +5,11 @@ git status
 git commit -m "Added files"
 rm testing.py
 git status
+git add git-commands.text 
+git status
+git commit -m "Added git commands file"
+git status
+git remote add origin http://github.com/Vishnu250188/git-New
+git remote -v
+git push origin master
+history
